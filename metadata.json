@@ -1,0 +1,5 @@
+{
+  "name": "NEON TETRIS",
+  "description": "A high-speed, neon-infused cyberpunk Tetris experience with ghost-pieces, level scaling, and reactive UI.",
+  "requestFramePermissions": []
+}
